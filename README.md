@@ -19,7 +19,4 @@ This script will generate and `output` folder with the generated `patters` and t
 
 input | pattern | final 
 --- | --- | --- | 
-![ghost](https://user-images.githubusercontent.com/12710413/149628553-106155ef-cf65-4e8e-bf1d-aabd03131f45.png)
- | ![pattern_1](https://user-images.githubusercontent.com/12710413/149628577-01fb5d98-02f5-4c89-a1f2-bb4c17ec73df.png)
- | ![final_image_1](https://user-images.githubusercontent.com/12710413/149628597-154351db-27b7-49b5-a7fa-07b4bc2b870d.png)
-
+| <img src="https://user-images.githubusercontent.com/12710413/149628553-106155ef-cf65-4e8e-bf1d-aabd03131f45.png" width="66" height="89" />  | <img src="https://user-images.githubusercontent.com/12710413/149628577-01fb5d98-02f5-4c89-a1f2-bb4c17ec73df.png" width="66" height="89" /> | <img src="https://user-images.githubusercontent.com/12710413/149628597-154351db-27b7-49b5-a7fa-07b4bc2b870d.png" width="66" height="89" />
