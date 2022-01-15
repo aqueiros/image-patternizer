@@ -17,7 +17,7 @@ This node script uses [css-doodle](https://css-doodle.com/) and [html-to-image](
 #### Example:
 ```node generateImages.js 5 ./examples/ghost.png```
 
-This script will generate and `output` folder with the generated `patters` and the `final` resulting images
+This script will generate an `output` folder with the generated `patterns` and the `final` resulting images
 
 input | pattern | final 
 --- | --- | --- | 
