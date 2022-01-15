@@ -64,7 +64,7 @@ async function loadAndProcessMyLocalImage(amount, image) {
         </body>
       </html>`
       });
-    console.log(`........Applying pattern ${1} to source image...`)
+    console.log(`........Applying pattern ${i} to source image...`)
 
     await loadImage(`${patternOutputDir}/pattern_${i}.png`).then(finalImage => {
       context.drawImage(finalImage, 0, 0);
